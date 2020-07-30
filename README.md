@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a passionate problem solver with a keen interest in the challenges presented by the roles of Business Intelligence Analyst, Data Analyst and Data Engineer. 
+I am a passionate problem solver with a keen interest in the challenges presented by the roles of Business Intelligence Analyst, Data Analyst and Data Engineer. My technology stack includes (among others);
+    1. Data Visualization: Tableau, Power BI, Apache Superset
+    2. Programming: Python, R, SQL/noSQL
+    3. OS: Linux, bash
+    4. Container-orchestration: Docker, Kubernetes
+    5. Data engineering/intergration: Airflow, Microsoft SSIS
+
