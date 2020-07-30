@@ -22,4 +22,5 @@ I am a passionate problem solver with a keen interest in the challenges presente
     3. OS: Linux, bash
     4. Container-orchestration: Docker, Kubernetes
     5. Data engineering/intergration: Airflow, Microsoft SSIS
+    6. Cloud computing: AWS, Microsoft Azure
 
