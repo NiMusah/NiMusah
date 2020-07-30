@@ -24,4 +24,4 @@ I am a passionate problem solver with a keen interest in the challenges presente
     5. Data engineering/intergration: Airflow, Microsoft SSIS
     6. Cloud computing: AWS, Microsoft Azure
     
-  ![GitHub Logo](/images/logo.png)Format: ![Alt Text](url)
+  ![GitHub Logo](/images/logo.png)Format: ![Alt Text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstorage.needpix.com%2Frsynced_images%2Fpotential-1353776_1280.jpg&imgrefurl=https%3A%2F%2Fwww.needpix.com%2Fphoto%2Fdownload%2F621325%2Fpotential-development-expression-qualities-human-growth-success-self-development-self-confidence&tbnid=zFRW2onREkYAGM&vet=12ahUKEwii1IOflPXqAhVP3hoKHQWHDYAQMygBegQIARBZ..i&docid=Gt1k5TwGpFHnbM&w=1280&h=1227&q=unrealized%20potential&hl=en&ved=2ahUKEwii1IOflPXqAhVP3hoKHQWHDYAQMygBegQIARBZ)
