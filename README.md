@@ -23,4 +23,6 @@ I am a passionate problem solver with a keen interest in the challenges presente
     4. Container-orchestration: Docker, Kubernetes
     5. Data engineering/intergration: Airflow, Microsoft SSIS
     6. Cloud computing: AWS, Microsoft Azure
-
+    
+    
+https://www.google.com/log?format=json&hasfast=true&authuser=0
