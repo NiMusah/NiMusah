@@ -24,5 +24,4 @@ I am a passionate problem solver with a keen interest in the challenges presente
     5. Data engineering/intergration: Airflow, Microsoft SSIS
     6. Cloud computing: AWS, Microsoft Azure
     
-    
-https://www.google.com/log?format=json&hasfast=true&authuser=0
+  ![GitHub Logo](/images/logo.png)Format: ![Alt Text](url)
