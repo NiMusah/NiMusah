@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a passionate problem solver with a keen interest in the challenges presented by the roles of Business Intelligence Analyst, Data Analyst and Data Engineer. My technology stack includes (among others);
+
+
     1. Data Visualization: Tableau, Power BI, Apache Superset
     2. Programming: Python, R, SQL/noSQL
     3. OS: Linux, bash
